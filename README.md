@@ -9,7 +9,9 @@
 
 # EDUCATION
 ![](/images/Purdue.jpg)
+
 ![](/images/ULL.jpg)
+
 ![](/images/abuad.jpg)
 
 ## Master of Science in Business Analytics and Information Management
@@ -46,5 +48,6 @@
 * Tools used: Python (pandas, scikit-learn, Matplotlib, Seaborn), ML algorithms: Logistic Regression, Decision Trees. R – Shiny App- link.
 * Created ML models to predict credit deault leading to Over 75% accuracy.
 
-#SKILLS
+# SKILLS
+
 ![](/images/skills.jpg)
