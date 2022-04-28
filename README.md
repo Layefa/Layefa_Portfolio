@@ -1,4 +1,5 @@
 # Tamaralayefa Timiyan
+
 ![](/images/IMG_1046%20-%20Copy%20(3)%20-%20Copy.jpg)
 
 # PROFILE
@@ -46,8 +47,16 @@
 
 ## [Project 3: Cross-selling Vehicle Insurance to Health Insurance Customers](https://csolanki.shinyapps.io/FinalProject/)
 * Tools used: Python (pandas, scikit-learn, Matplotlib, Seaborn), ML algorithms: Logistic Regression, Decision Trees. R – Shiny App- link.
-* Created ML models to predict credit deault leading to Over 75% accuracy.
+* Created ML models to predict credit deault leading to Over 75% accuracy
 
 # SKILLS
-
+* Python (numpy, pandas, scikit-learn, etc)
+* SQL
+* R
+* JMP
+* SAS
+* Excel
+* VBA
+* MATLAB
+*
 ![](/images/skills.jpg)
