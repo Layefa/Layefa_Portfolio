@@ -1,6 +1,6 @@
 # Tamaralayefa Timiyan
 
-![](/images/IMG_1046%20-%20Copy%20(3)%20-%20Copy.jpg)
+![](/images/mypicture.jpg)
 
 # PROFILE
 * Business Analytics student seeking data/business analyst, data science, database administrator full-time positions.
