@@ -58,5 +58,5 @@
 * Excel
 * VBA
 * MATLAB
-*
+
 ![](/images/skills.jpg)
