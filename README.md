@@ -1,4 +1,5 @@
 # Tamaralayefa Timiyan
+!(https://github.com/Layefa/Layefa_Portfolio/blob/main/images/IMG_1046%20-%20Copy%20(3)%20-%20Copy.jpg)
 
 # PROFILE
 * Business Analytics student seeking data/business analyst, data science, database administrator full-time positions.
