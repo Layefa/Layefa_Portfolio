@@ -1,4 +1,4 @@
-# Tamaralayefa Timiyan
+# Tamaralayefa Timiyans
 
 ![](/images/IMG_1046%20-%20Copy%20(3)%20-%20Copy.jpg)
 
